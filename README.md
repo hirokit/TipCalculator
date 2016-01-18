@@ -7,8 +7,8 @@ About Three hours.
 
 Which required and optional stories have you completed?
 
-- Given a bill amount, calculate a tip and a total.
-- Allow the user to choose the tip percentage.
-- Used a slider to choose the tip percentage
+- Given a bill amount, calculate a tip (15%, 18%, 20%).
+- Allow the user to choose the tax percentage.
+- Used a slider to choose the tax percentage
 
 ![TipCalc](https://github.com/hirokit/TipCalculator/blob/master/TipCalc.gif)
