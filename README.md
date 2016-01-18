@@ -10,3 +10,5 @@ Which required and optional stories have you completed?
 - Given a bill amount, calculate a tip and a total.
 - Allow the user to choose the tip percentage.
 - Used a slider to choose the tip percentage
+
+![TipCalc](https://github.com/hirokit/TipCalculator/blob/master/TipCalc.gif)
